@@ -1,0 +1,5 @@
+backbone: facebook/wav2vec2-base-960h
+learning_rate: 5.0e-05
+lr_scheduler: null
+optimizer: Adam
+processor_backbone: null
